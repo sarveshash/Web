@@ -1,0 +1,32 @@
+*{
+  padding: 0;
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  font-size: 16;
+  background-color: rgb(246, 254, 255);
+}
+.header{
+  text-align: center;
+  font-size: 1.3rem;
+  margin: 4rem auto 4rem;
+}
+
+
+.image-pri{
+  display: block;
+  font-size: 0.5rem;
+  border-radius: 1rem;
+  margin: 0 auto;
+  padding: 0.58rem;
+  background: linear-gradient(45deg,#11998e,#38ef7d);
+  transition: transform 0.3s ease 0.1s; 
+
+}
+
+.image-pri:hover{
+  transform: scale(1.2);
+  
+  
+}
+
+
