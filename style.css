@@ -15,7 +15,7 @@
 .image-pri{
   display: block;
   font-size: 0.5rem;
-  border-radius: 1rem;
+  border-radius: 2rem;
   margin: 0 auto;
   padding: 0.58rem;
   transition: transform 0.3s ease 0.1s; 
@@ -27,5 +27,6 @@
   
   
 }
+
 
 
