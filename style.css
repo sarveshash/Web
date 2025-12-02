@@ -18,7 +18,9 @@
   border-radius: 1rem;
   margin: 0 auto;
   padding: 0.58rem;
-  background: linear-gradient(45deg,#11998e,#38ef7d);
+  box-shadow:
+    0 2px 4px rgba(0,0,0,0.1)
+    0 4px 10px rgba(0,0,0,0.08)
   transition: transform 0.3s ease 0.1s; 
 
 }
@@ -28,5 +30,4 @@
   
   
 }
-
 
